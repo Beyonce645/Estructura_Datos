@@ -13,4 +13,10 @@ int main ( int argc, char** argv)
             cout << c<< "pulsando./n";
     }while (c != 27);
     return 0;
+
 }
+/*
+ * Pulse teclas numericas. Acabe pulsando ESC
+1 pulsado.
+7 pulsado.
+*/
