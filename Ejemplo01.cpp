@@ -1,4 +1,4 @@
-include <iostream>
+#include <iostream>
 int main(int argc, char** argv) {
     int x; 
     std::cout << "Escriba un numero. ";
@@ -10,4 +10,5 @@ int main(int argc, char** argv) {
 /*  
 Escriba un numero. 7
 El numero intrducido es: 7
+
 */
