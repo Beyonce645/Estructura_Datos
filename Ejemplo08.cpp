@@ -17,4 +17,10 @@ int main (int argc, char** argv)
 int menorde3 (int x, int y, int z ) // ..y aquí la definición
 {
     return menor(menor(x,y),z;
+
 }
+/*
+ * Escribe tres datos enteros:
+7 3 9
+El menor es de los tres numeros 3
+*/
