@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace= std;
+using namespace std;
 const int minimo =0, maximo=10;
 
 int main (int argc, char** argv)
