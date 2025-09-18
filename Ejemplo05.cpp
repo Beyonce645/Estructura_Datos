@@ -26,3 +26,8 @@ int main (int argc, char** argv)
         };
         return 0;
 }
+/*
+ * Introduzca un numero entre 0 y 10.
+ * 5 
+ * El numero 5 es primo
+*/
